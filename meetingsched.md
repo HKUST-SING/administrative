@@ -13,3 +13,4 @@ For each presenter:
 | 2017/Sep/02 | 14:00 | Lingys, Justinas | [vCorfu: A Cloud-Scale Object Store on a Shared Log](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/wei-michael) | CYT3007 |
 | ---- | ---- | --------- | -------------- | -------- |
 | 2017/Sep/09 | 14:00 | Zhang, Junxue | Summary of *sigcomm 2017* | CYT3007 |
+| 2017/Sep/16 | 14:00 | Zhang, Yuchao | [DRILL: Micro Load Balancing for Low-latency Data Center Networks](http://ghorban2.web.engr.illinois.edu/papers/drill_sigcomm.pdf) | CYT3007 |
