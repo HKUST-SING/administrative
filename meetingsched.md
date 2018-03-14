@@ -13,3 +13,6 @@ For each presenter:
 | 2017/Sep/02 | 14:00 | Lingys, Justinas | [vCorfu: A Cloud-Scale Object Store on a Shared Log](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/wei-michael) | CYT3007 |
 | ---- | ---- | --------- | -------------- | -------- |
 | 2017/Sep/09 | 14:00 | Zhang, Junxue | Summary of *sigcomm 2017* | CYT3007 |
+| ---- | ---- | --------- | -------------- | -------- |
+| 2018/Mar/17 | 14:00 | Wang, Yiding | [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) |  |
+| 2017/Mar/24 | 14:00 | Xia, Jiacheng |  |  |
